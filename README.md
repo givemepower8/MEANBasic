@@ -1,0 +1,2 @@
+# MEANBasic
+MEAN Basic practices
