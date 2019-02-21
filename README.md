@@ -1,7 +1,7 @@
 # MEANBasics
 MEAN Basic practices
 
-hosted on [mean.gingerstudio.net](http://mean.gingerstudio.net)
+hosted on [meanbasics.gingerstudio.net](http://meanbasics.gingerstudio.net)
 
 ## Node on IIS
 
